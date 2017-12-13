@@ -2,4 +2,6 @@ apples
 oranges
 kiwis
 carrots
-SlimeBalls
+<<<<<<< HEAD
+Beeswax
+>>>>>>> github/master
